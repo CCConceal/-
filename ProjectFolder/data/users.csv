@@ -1,0 +1,9 @@
+userID,username,password,age,userType,loyaltylevel
+1,john_doe,securepassword,30,Common,
+2,jane_smith,anotherpassword,25,Member,5
+3,bob_jones,password123,40,Common,
+4,alice_brown,password456,28,Member,3
+5,jita,123456,40,Member,2
+6,test,test,30,Member,3
+7,user3,user3,20,Common,
+9,test22,test22,20,Common,

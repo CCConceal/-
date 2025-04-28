@@ -1,0 +1,108 @@
+Destination,HotelName,RoomType,Price,MaxOccupancy,Amenities,TotalRooms
+Tokyo,Marriott Tokyo Shinjuku,Standard,180,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Tokyo,Marriott Tokyo Shinjuku,Deluxe,260,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Tokyo,Marriott Tokyo Shinjuku,Suite,420,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Marriott Tokyo Shinjuku,Couple,220,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Tokyo,Marriott Tokyo Ginza,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Marriott Seoul Gangnam,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Marriott Seoul Gangnam,Deluxe,230,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Seoul,Marriott Seoul Gangnam,Suite,380,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Gangnam,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Marriott Seoul Myeongdong,Standard,150,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Marriott Bangkok Sukhumvit,Standard,100,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Marriott Bangkok Sukhumvit,Deluxe,180,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Bangkok,Marriott Bangkok Sukhumvit,Suite,300,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Bangkok,Marriott Bangkok Sukhumvit,Couple,150,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Bangkok,Marriott Bangkok Riverside,Standard,120,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Marriott Singapore Orchard Road,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Marriott Singapore Orchard Road,Deluxe,240,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Singapore,Marriott Singapore Orchard Road,Suite,400,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Singapore,Marriott Singapore Orchard Road,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Singapore,Marriott Singapore Marina Bay,Standard,170,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Marriott Hong Kong Central,Standard,180,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Marriott Hong Kong Central,Deluxe,260,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Hong Kong,Marriott Hong Kong Central,Suite,420,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Hong Kong,Marriott Hong Kong Central,Couple,220,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Hong Kong,Marriott Hong Kong Tsim Sha Tsui,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Tokyo,Marriott Tokyo Marunouchi,Standard,180,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Tokyo,Marriott Tokyo Marunouchi,Deluxe,260,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Tokyo,Marriott Tokyo Marunouchi,Suite,420,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Marriott Tokyo Marunouchi,Couple,220,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Tokyo,Courtyard by Marriott Tokyo Station,Standard,180,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Tokyo,Courtyard by Marriott Tokyo Station,Deluxe,260,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Tokyo,Courtyard by Marriott Tokyo Station,Suite,420,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Courtyard by Marriott Tokyo Station,Couple,220,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Tokyo,Marriott Tokyo Bay,Standard,180,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Tokyo,Marriott Tokyo Bay,Deluxe,260,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Tokyo,Marriott Tokyo Bay,Suite,420,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Marriott Tokyo Bay,Couple,220,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Marriott Seoul Gangnam,Standard,150,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Marriott Seoul Gangnam,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Seoul,Marriott Seoul Gangnam,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Gangnam,Couple,180,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Courtyard by Marriott Seoul Namdaemun,Standard,150,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Courtyard by Marriott Seoul Namdaemun,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Seoul,Courtyard by Marriott Seoul Namdaemun,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Courtyard by Marriott Seoul Namdaemun,Couple,180,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Marriott Seoul Dongdaemun,Standard,150,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Marriott Seoul Dongdaemun,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Seoul,Marriott Seoul Dongdaemun,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Dongdaemun,Couple,180,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Marriott Seoul Jamsil,Standard,150,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Seoul,Marriott Seoul Jamsil,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Seoul,Marriott Seoul Jamsil,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Jamsil,Couple,180,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Bangkok,Marriott Bangkok Silom,Standard,100,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Marriott Bangkok Silom,Deluxe,170,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Bangkok,Marriott Bangkok Silom,Suite,250,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Bangkok,Marriott Bangkok Silom,Couple,130,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Bangkok,Marriott Bangkok Riverside,Standard,100,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Marriott Bangkok Riverside,Deluxe,170,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Bangkok,Marriott Bangkok Riverside,Suite,250,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Bangkok,Marriott Bangkok Riverside,Couple,130,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Bangkok,Marriott Bangkok Siam,Standard,100,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Marriott Bangkok Siam,Deluxe,170,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Bangkok,Marriott Bangkok Siam,Suite,250,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Bangkok,Marriott Bangkok Siam,Couple,130,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Bangkok,Courtyard by Marriott Bangkok Asoke,Standard,100,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Bangkok,Courtyard by Marriott Bangkok Asoke,Deluxe,170,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Bangkok,Courtyard by Marriott Bangkok Asoke,Suite,250,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Bangkok,Courtyard by Marriott Bangkok Asoke,Couple,130,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Singapore,Marriott Singapore Marina Bay,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Marriott Singapore Marina Bay,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Singapore,Marriott Singapore Marina Bay,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Singapore,Marriott Singapore Marina Bay,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Singapore,Courtyard by Marriott Singapore Novena,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Courtyard by Marriott Singapore Novena,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Singapore,Courtyard by Marriott Singapore Novena,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Singapore,Courtyard by Marriott Singapore Novena,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Singapore,Marriott Singapore Chinatown,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Marriott Singapore Chinatown,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Singapore,Marriott Singapore Chinatown,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Singapore,Marriott Singapore Chinatown,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Singapore,Marriott Singapore Sentosa,Standard,160,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Singapore,Marriott Singapore Sentosa,Deluxe,220,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Singapore,Marriott Singapore Sentosa,Suite,370,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Singapore,Marriott Singapore Sentosa,Couple,200,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Hong Kong,Marriott Hong Kong Tsim Sha Tsui,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Marriott Hong Kong Tsim Sha Tsui,Deluxe,280,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Hong Kong,Marriott Hong Kong Tsim Sha Tsui,Suite,450,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Hong Kong,Marriott Hong Kong Tsim Sha Tsui,Couple,240,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Hong Kong,Marriott Hong Kong Causeway Bay,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Marriott Hong Kong Causeway Bay,Deluxe,280,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Hong Kong,Marriott Hong Kong Causeway Bay,Suite,450,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Hong Kong,Marriott Hong Kong Causeway Bay,Couple,240,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Hong Kong,Courtyard by Marriott Hong Kong Sha Tin,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Courtyard by Marriott Hong Kong Sha Tin,Deluxe,280,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Hong Kong,Courtyard by Marriott Hong Kong Sha Tin,Suite,450,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Hong Kong,Courtyard by Marriott Hong Kong Sha Tin,Couple,240,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Hong Kong,Marriott Hong Kong Tung Chung,Standard,190,2,WiFi|Breakfast|Basic Bathroom|24-hour water|snack,5
+Hong Kong,Marriott Hong Kong Tung Chung,Deluxe,280,3,WiFi|Breakfast|Parking|Gym|KTV,5
+Hong Kong,Marriott Hong Kong Tung Chung,Suite,450,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Hong Kong,Marriott Hong Kong Tung Chung,Couple,240,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Tokyo,Marriott Tokyo Ginza,Suite,400,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Marriott Tokyo Ginza,Couple,300,2,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Tokyo,Marriott Tokyo Ginza,Deluxe,300,3,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Myeongdong,Couple,180,2,WiFi|Breakfast|Jacuzzi|Room Decoration|rose hot spring,5
+Seoul,Marriott Seoul Myeongdong,Suite,354,4,WiFi|Breakfast|Parking|Gym|Pool|Laundry Service,5
+Seoul,Marriott Seoul Myeongdong,Deluxe,350,3,WiFi|Breakfast|Parking|Gym|KTV,5

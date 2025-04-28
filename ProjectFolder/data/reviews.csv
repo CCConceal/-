@@ -1,0 +1,7 @@
+ReviewID,BookingID,Username,HotelName,ReviewType,ContentOrRating
+R001,BK001,alice,Marriott Tokyo Shinjuku,Text,Great stay with excellent service!
+R002,BK002,bob,Marriott Seoul Gangnam,Star,5
+RVBK002,BK001,test,Marriott Seoul Gangnam,Star,5
+RVBK016,BK015,test,Marriott Singapore Orchard Road,Text,I can give this system full mark
+RVBK016,BK015,test,Marriott Singapore Orchard Road,Star,3
+RVBK017,BK014,test,Marriott Seoul Myeongdong,Text,123

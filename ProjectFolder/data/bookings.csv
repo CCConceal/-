@@ -1,0 +1,22 @@
+BookingID,Username,Destination,HotelName,RoomType,CheckInDate,CheckOutDate,NumberOfRooms,NumberOfGuests,PaymentMethod,TotalAmount
+BK001,alice,Tokyo,Marriott Tokyo Shinjuku,Standard,2024/12/20,2024/12/22,1,2,Credit Card,300
+BK002,bob,Seoul,Marriott Seoul Gangnam,Suite,2024/12/21,2024/12/23,2,4,E-wallet,800
+BK003,test,Seoul,Marriott Seoul Myeongdong,Standard,2024/12/27,2024/12/28,2,4,E-wallet,330
+BK004,test,Seoul,Marriott Seoul Myeongdong,Standard,2024/12/29,2024/12/30,2,4,Credit Card,330
+BK005,test,Seoul,Marriott Seoul Gangnam,Standard,2024/12/1,2024/12/3,2,4,Credit Card,352
+BK006,test,Tokyo,Marriott Tokyo Shinjuku,Standard,2024/12/31,2025/1/3,1,1,Cash on Delivery,198
+BK007,test,Seoul,Marriott Seoul Myeongdong,Standard,2024/12/30,2024/12/31,1,1,E-wallet,165
+BK008,test,Seoul,Marriott Seoul Gangnam,Standard,2024/12/28,2024/12/30,1,1,Cash on Delivery,176
+BK009,test,Seoul,Marriott Seoul Gangnam,Standard,2024/12/29,2024/12/31,1,1,Cash on Delivery,176
+BK010,test,Tokyo,Marriott Tokyo Shinjuku,Standard,2024/12/28,2024/12/29,1,1,Cash on Delivery,198
+BK011,test,Seoul,Marriott Seoul Gangnam,Standard,2024/12/28,2024/12/30,2,4,E-wallet,352
+BK012,test,Hong Kong,Marriott Hong Kong Central,Couple,2024/12/30,2024/12/31,2,2,Credit Card (***0222),435.6
+BK013,test,Seoul,Marriott Seoul Myeongdong,Standard,2024/12/28,2024/12/29,1,1,E-wallet (****233),165
+BK014,test,Seoul,Marriott Seoul Myeongdong,Standard,2024/12/30,2024/12/31,1,1,Cash on Delivery (contact: *****666),135
+BK015,test,Singapore,Marriott Singapore Orchard Road,Suite,2024/12/30,2024/12/31,1,1,Cash on Delivery (contact: ****333),410
+BK016,test,Tokyo,Marriott Tokyo Marunouchi,Deluxe,2024-12-29,2024-12-30,1,2,Cash on Delivery (contact: ***456),256
+BK017,test,Seoul,Marriott Seoul Dongdaemun,Suite,2024-12-30,2024-12-31,1,2,Credit Card (**********4040),377
+BK018,test,Seoul,Marriott Seoul Myeongdong,Standard,2024-12-29,2024-12-30,1,1,Cash on Delivery (contact: ****333),135
+BK019,test,Seoul,Marriott Seoul Myeongdong,Couple,2024-12-30,2024-12-31,1,1,Cash on Delivery (contact: ****332),168
+BK020,test,Seoul,Marriott Seoul Myeongdong,Couple,2024-12-29,2024-12-30,1,2,E-wallet (***456),168
+BK021,test,Seoul,Marriott Seoul Myeongdong,Suite,2024-12-29,2024-12-30,1,2,Credit Card (*********9645),359.4
